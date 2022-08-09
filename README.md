@@ -1,4 +1,4 @@
-Tethne [![Build Status](https://travis-ci.org/jasonzou/tethne-plus.svg?branch=python)](https://travis-ci.org/jasonzou/tethne-plus)
+Tethne [![Build Status](https://travis-ci.com/jasonzou/tethne-plus.svg?branch=python)](https://travis-ci.com/jasonzou/tethne-plus)
 ======
 Tethne is a Python package for integrated bibliographic and corpus analysis developed by
 the Digital Innovation Group at Arizona State University. Tethne provides simple tools
